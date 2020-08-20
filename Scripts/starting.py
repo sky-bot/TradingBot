@@ -26,4 +26,3 @@ cp_standarized = (close_price - close_price.mean())/close_price.std()
 cp_standarized.plot()
 close_price.plot(subplots=True, layout=(2,2), title="Tech Stock Price", grid=True)
 
-
