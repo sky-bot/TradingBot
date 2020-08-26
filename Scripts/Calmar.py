@@ -17,4 +17,3 @@ def calmar(ohlcv):
     return _calmar
 
 print(calmar(ohlcv))
-
