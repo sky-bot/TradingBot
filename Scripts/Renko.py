@@ -16,5 +16,3 @@ def GetRenko(DF, n):
     df2 = renko_df.get_bricks()
 
     return df2
-
-    pass
